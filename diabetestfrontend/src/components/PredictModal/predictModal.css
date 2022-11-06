@@ -1,0 +1,145 @@
+.predict-background {
+  width: 60vw;
+  height: 120vh;
+  background: var(--color-tertiary);
+  position: absolute;
+  top: 9.5rem;
+  left: 16rem;
+  right: 0;
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  }
+  
+  .predict-container {
+    width: 370px;
+    height: 390px;
+    border-radius: 12px;
+    background-color: white;
+    box-shadow: rgba(50, 235, 235, 0.35) 0px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+  }
+  
+.predict-content .predict-para{
+  padding-left: 5px;
+}
+
+.predict-para{
+    color: var(--color-tertiary);
+    font-size: 16px;
+    text-align: center;
+}
+
+.negative-predict{
+   color: var(--color-negative);
+   font-weight: 700;
+}
+
+.positive-predict{
+  color: var(--color-positive);
+  font-weight: 700;
+}
+
+
+
+
+  .closed-btn{
+     padding-left: 19rem;
+     background: var(--color-white);
+     font-size: 30px;
+     color: var(--color-tertiary);
+     cursor: pointer;
+   }
+
+   .closed-btn:hover{
+     color: var(--color-primary);   
+    }
+  
+  .predict-img{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .predict-img img{
+    height: 40vh;
+    width: 20vw;
+  }
+
+  
+ 
+@media screen and (max-width: 768px){
+  .predict-background {
+    width: 90vw;
+    height: 70vh;
+    top: 9.5rem;
+    left: 1rem;
+    right: 0;
+    padding-top: 30px;
+    }
+
+    .predict-container {
+      width: 350px;
+      height: 320px;
+    }
+
+    
+  .predict-img img{
+    height: 18vh;
+    width: 25vw;
+  }
+
+  .predict-content .predict-para{
+    padding: 5px 0 0 5px;
+  }
+  
+  .predict-para{
+      color: var(--color-tertiary);
+      font-size: 16px;
+      text-align: center;
+  }
+
+    
+}
+
+
+@media screen and (max-width: 500px){
+  .predict-background {
+    width: 95vw;
+    height: 70vh;
+    top: 15rem;
+    left: 0;
+    right: 0;
+    padding: 50px 0 0 16px;
+    }
+
+    .predict-container {
+      width: 260px;
+      height: 250px;
+    }
+
+    
+  .predict-img img{
+    height: 13vh;
+    width: 28vw;
+  }
+  
+  .predict-content .predict-para{
+    padding: 5px 0 0 5px;
+  }
+  
+  .predict-para{
+      color: var(--color-tertiary);
+      font-size: 14px;
+      text-align: center;
+  }
+
+  .closed-btn{
+    padding-left: 13rem;
+    font-size: 24px;
+
+  }
+
+    
+}
