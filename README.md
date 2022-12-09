@@ -8,8 +8,8 @@ Also this project uses Gradient Boosting Classifier is a group of machine learni
 ## AboutPage
 ![Screenshot (81)](https://user-images.githubusercontent.com/80078725/206732649-17dc0fd6-c9a1-40a7-a7f7-bacf9a51a8b1.png)
 
-
 ## ProcessPage
+![Screenshot (87)](https://user-images.githubusercontent.com/80078725/206732812-36dbd0a2-81a6-4b1b-97b6-e7051e4590ee.png)
 
 
 ## TestPage
