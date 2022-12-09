@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e226b70.css",
+    "main.js": "/static/js/main.2af51491.js",
+    "static/media/data.png": "/static/media/data.0cb2a54ac164f29ca088.png",
+    "static/media/result.png": "/static/media/result.ad0c8c82508ab7e2e09e.png",
+    "static/media/aboutImg.png": "/static/media/aboutImg.acccd85cc58cb714621f.png",
+    "static/media/click.png": "/static/media/click.c1a31d9b7ffc82a09004.png",
+    "static/media/PositiveDiabetes.png": "/static/media/PositiveDiabetes.71a1cd2b7774b7792414.png",
+    "static/media/NegativeDiabetes.png": "/static/media/NegativeDiabetes.1b7057646259735a46c1.png",
+    "static/media/DiabetesBgOne.png": "/static/media/DiabetesBgOne.da45310256c6a6ebf461.png",
+    "static/media/DiabetesBgTwo.png": "/static/media/DiabetesBgTwo.a663882f9e110a9f9fcc.png",
+    "static/media/Logo.png": "/static/media/Logo.3d99f7fba2f1613d7588.png",
+    "static/media/mainLogo.png": "/static/media/mainLogo.3d99f7fba2f1613d7588.png",
+    "index.html": "/index.html",
+    "main.1e226b70.css.map": "/static/css/main.1e226b70.css.map",
+    "main.2af51491.js.map": "/static/js/main.2af51491.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e226b70.css",
+    "static/js/main.2af51491.js"
+  ]
+}
