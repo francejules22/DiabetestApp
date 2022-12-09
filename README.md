@@ -18,3 +18,7 @@ Also this project uses Gradient Boosting Classifier is a group of machine learni
 ![Screenshot (84)](https://user-images.githubusercontent.com/80078725/206733099-7607045c-d930-43a7-b68e-3e8e8478dc9d.png)
 
 ## PositiveResult
+![Screenshot (86)](https://user-images.githubusercontent.com/80078725/206733374-674b67c1-928f-4419-991c-b28871bcf13b.png)
+
+## NegativeResult
+
