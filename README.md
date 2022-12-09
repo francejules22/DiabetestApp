@@ -11,8 +11,7 @@ Also this project uses Gradient Boosting Classifier is a group of machine learni
 ## ProcessPage
 ![Screenshot (87)](https://user-images.githubusercontent.com/80078725/206732812-36dbd0a2-81a6-4b1b-97b6-e7051e4590ee.png)
 
-
 ## TestPage
-
+![Screenshot (83)](https://user-images.githubusercontent.com/80078725/206732955-46732d47-d382-4926-8d32-cbf91114c4ad.png)
 
 ## TipsPage
