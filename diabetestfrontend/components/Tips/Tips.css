@@ -1,0 +1,144 @@
+body {
+    background-color: var(--color-bg);
+  }
+  .tip-container {
+    width: 70%;
+    height: 100vh;
+    margin: 0 auto;
+    margin-top: 50px;
+  }
+  
+  .slick-slide > div {
+    margin: 0 10px;
+  }
+  .slick-list {
+    margin: 0 -10px;
+  }
+  
+  .card {
+    border: 1px solid var(--color-tertiary);
+    background: var(--color-tertiary);
+    border-radius: 8px;
+    overflow: hidden;
+    height: 420px;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 18px;
+  }
+
+  .card:hover{
+    box-shadow: 0px 0px 5px 5px var(--color-tertiary-variant);
+    animation: hover 0.5s ease-out forwards;
+    cursor: pointer;
+  }
+  
+  .card-top h1 {
+    font-size: 1rem;
+    margin: 20px;
+  }
+  
+  .card-top > img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    background: var(--color-tertiary);
+  }
+  
+  .card-bottom {
+    margin: 10px 20px;
+  }
+
+  .tip-para{
+    font-size: 18px;
+  }
+  
+  .btn-line {
+    position: relative;
+  }
+  .btn-line::before {
+    content: '';
+    background: rgb(255, 61, 61);
+    position: absolute;
+    top: calc(100% + 10px);
+    left: 0;
+    right: 0;
+    height: 2px;
+  }
+
+
+  .plan-title{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--color-tertiary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .plan-para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    padding: 14px 0 10px 0;
+    font-size: 18px;
+    color: var(--color-tertiary);
+  }
+
+  .tip-para{
+    font-size: 12px;
+    color: var(--color-bg);
+  }
+
+  .tip-btn{
+     font-size: 12px;
+     padding: 4px;
+     margin-top: 10px;
+     border: 1px solid var(--color-primary);
+     border-radius: 5px;
+     background-color: var(--color-primary);
+  }
+
+  a{
+     color: var(--color-white);
+     font-weight: 700;
+  }
+  
+  .tip-btn a:hover{
+    color: var(--color-tertiary);
+    font-weight: 700;
+  }
+
+  .tip-btn:hover{
+    border: 1px solid var(--color-tertiary);
+    background-color: var(--color-bg);
+    cursor: pointer;
+  }
+
+  
+@keyframes hover{
+  0%{
+
+  }
+  100%{
+     transform: translateY(-10px);
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px){
+  .plan-title{
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .plan-para{
+    font-size: 16px;
+    margin: 2px;
+  }
+  .card{
+    height: 462px;
+  }
+}
