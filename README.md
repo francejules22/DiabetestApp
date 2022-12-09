@@ -21,4 +21,14 @@ Also this project uses Gradient Boosting Classifier is a group of machine learni
 ![Screenshot (86)](https://user-images.githubusercontent.com/80078725/206733374-674b67c1-928f-4419-991c-b28871bcf13b.png)
 
 ## NegativeResult
+![Screenshot (85)](https://user-images.githubusercontent.com/80078725/206733505-a08c9078-4750-499e-9e9c-bec58c78d4ce.png)
+
+# Technologies Used
+* Reactjs
+* Python 
+* Flask
+
+# Getting Started 
+This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
+
 
