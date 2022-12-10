@@ -21,11 +21,11 @@ This is an example of how to list things you need to use the software and how to
 ## Installation 
 To install python dependencies go to flask folder cd flask-server then create a python virtual environment, hover to your terminal and copy and paste this code python3 -m venv venv, in order to run virtual environment use this command
 
-*Windows Powershell
+- Windows Powershell
 
 ```.  ./venv/Scripts/activate.ps1```
 
-*Linux Command
+- Linux Command
 
 ```source ./venv/bin/activate```
 
